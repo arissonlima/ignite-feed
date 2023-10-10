@@ -1,6 +1,5 @@
-<h1 align="center">
- ![logo-ignite-feed](https://github.com/arissonlima/ignite-feed/assets/10180042/368a160d-a6c5-4a59-bb3e-2fb23c547a45)
-</h1>
+
+<h1 align="center">Ignite Feed</h1>
 
 <br>
 
@@ -28,7 +27,7 @@ Esse projeto foi desenvolvido no primeiro módulo da formação Ignite da Rocket
 ### 🗂 Clone o projeto
 
 ```bash
-git clone https://github.com/goncadanilo/ignite-feed.git
+git clone https://github.com/arissonlima/ignite-feed.git
 ```
 
 ### 📥 Instale as dependências
